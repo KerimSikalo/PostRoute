@@ -1,5 +1,7 @@
 # PostRoute
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 > Web aplikacija za planiranje, optimizaciju, dodjelu i praćenje ruta za punjenje i pražnjenje poštanskih sandučića.
 
 PostRoute pomaže poštanskim dispečerima da brže planiraju dnevni rad, poštarima da izvršavaju dodijeljene rute na terenu, a administratorima i nadzoru da upravljaju podacima, prate realizaciju i analiziraju rezultate.
@@ -406,4 +408,4 @@ Preporučeni tok rada je kratkotrajna feature/fix/docs grana, commit sa jasnim p
 
 ## Licenca
 
-U repozitoriju trenutno nije definisana licenca. Prije javnog korištenja, redistribucije ili uključivanja projekta u drugi proizvod potrebno je dodati odgovarajuću licencu i usaglasiti prava autora.
+Ovaj projekat je licenciran pod [MIT licencom](LICENSE). Prava autora i uslovi korištenja navedeni su u `LICENSE` fajlu.
