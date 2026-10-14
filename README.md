@@ -406,4 +406,6 @@ Preporučeni tok rada je kratkotrajna feature/fix/docs grana, commit sa jasnim p
 
 ## Licenca
 
-U repozitoriju trenutno nije definisana licenca. Prije javnog korištenja, redistribucije ili uključivanja projekta u drugi proizvod potrebno je dodati odgovarajuću licencu i usaglasiti prava autora.
+Ovaj projekat je licenciran pod <a>MIT licencom</a>.
+
+Copyright (c) 2026 Kerim Sikalo.
